@@ -1,7 +1,0 @@
-#!/bin/bash
-
-git add .
-git commit -m 'I created a script for this project to speed up our  workflow'
-git push
-
-echo "Nice!, let's get those greeen boxes Hyahh!"
